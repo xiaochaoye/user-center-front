@@ -5,8 +5,8 @@
   ``` 
   npm install
 或者
+  ``` yarn
   ```
-  yarn
 
-- 之后
+之后
 
