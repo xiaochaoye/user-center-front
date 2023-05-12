@@ -5,8 +5,9 @@
   ``` 
   npm install
 或者
-  ``` yarn
+  ``` 
+  yarn
   ```
 
-之后
+- 之后在package.json中运行“start”脚本即可
 
