@@ -63,7 +63,7 @@ const AvatarDropdown: React.FC<GlobalHeaderRightProps> = ({ menu }) => {
   }
 
   const { currentUser } = initialState;
-
+//返回状态，如果后台返回数据都为空或者只是用户名为空，那么就一直加载名字和头像
   if (!currentUser || !currentUser.username) {
     return loading;
   }
