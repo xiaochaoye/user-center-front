@@ -2,8 +2,8 @@
 
 ## 使用
 - 下载导入编辑器后，运行
-··· 
-npm install
+  ··· 
+  npm install
 或者
-```
-yarn
+  ```
+  yarn
